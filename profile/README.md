@@ -1,5 +1,4 @@
-### <div align="center">România Stunt World</div>  
-  
+<div align="center"><img src="https://i.imgur.com/2j8j54g.png"></div>
 
 <div align="center">RSW este un server românesc de GTA San Andreas Multiplayer</div>  
   
